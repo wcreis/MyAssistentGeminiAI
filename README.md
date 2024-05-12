@@ -1,6 +1,9 @@
 ## Assistente de Tarefas Inteligente: Simplificando sua Organização com IA 🧠
 Concorrendo aos Prêmios da "Imersão Inteligência Artificial da Alura e do Google"
 
+### Inspiração
+[Aqui Tudo começa](ComeçoDeTudo.md)
+
 ### Descrição
 
 Neste projeto, desenvolvemos um protótipo de um assistente de tarefas inteligente que utiliza o poder da inteligência artificial para ajudar você a se organizar de forma eficiente. O assistente é capaz de:
